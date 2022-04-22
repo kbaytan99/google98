@@ -1,0 +1,28 @@
+.container{
+    display: grid;
+    grid-template-columns: auto;
+}
+.container-two{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.container-three{
+    display: grid;
+    grid-template-columns: auto;
+    background-color: gainsboro;
+    height: 70px;
+    text-align: center;
+}
+.container-four{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+}
+img{
+    align-items: center;
+}
+.items{
+    margin: 5px;
+    height: auto;
+    padding: 5%;
+}
